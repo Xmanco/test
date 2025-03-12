@@ -1,0 +1,70 @@
+Quiero un test en React utilizando JavaScript, El objetivo es tener dos alternativas (A y B),
+con las 4 casillas de respuestas que permiten asignar puntuaciones automáticamente según el
+grado de acuerdo o desacuerdo con las opciones.
+
+Instrucciones: Para cada pregunta, responda de acuerdo con lo siguiente:
+
+Totalmente de acuerdo con A asigna 3 puntos a A y 0 puntos a B.
+Ligeramente de acuerdo con A asigna 2 puntos a A y 1 punto a B.
+Ligeramente de acuerdo con B asigna 1 punto a A y 2 puntos a B.
+Totalmente de acuerdo con B asigna 0 puntos a A y 3 puntos a B.
+
+quiero un boton para evaluar sus respuestas.
+
+asi mismo las preguntas seran.
+
+este test va tener dos partes.
+
+Test de Opinión
+Primera Parte
+Por favor marque cero, uno, dos o tres puntos en las casillas del centro, según la importancia que usted le da a cada frase en su vida personal.
+
+Las únicas opciones de respuesta son: 3-0, 0-3, 2-1, 1-2
+
+Siempre la suma de puntos de las dos casillas debe ser 3.
+
+al test quita las preguntas y que queden estas 9 greguntas.
+
+1 Muestro dediacion a las personas que amo Actuo con perseverancia
+2 soy tolerante Prefiero actuar con etica
+3 al pensar, utilizo mi intuicion o "sexto sentido" Me siento una persona digna
+4 Logro buen concentracion mental Perdono todas las ofensas de cualquier persona
+5 Normalmente razono mucho Me destaco por el liderazgo en mis acciones
+6 Pienso con integridad Me coloco objetivos y metas en mi vida personal
+7 Soy una persona de iniciativa En mi trabajo normalmente soy curioso
+8 Doy amor Para pensar hago sintesis de las distintas ideas
+9 Me siento en calma Pienso con veracidad
+
+Segunda parte
+Por favor marque cero, uno, dos o tres puntos en las casillas del centro para
+la frase mas inaceptable, segun su juicio. El puntaje mas alto sera para
+la frase que indique lo peor. Las unicas opciones de respuesta son:
+3-0
+0-3
+2-1
+1-2
+Siempre la suma de puntos de las dos casillas debe ser 3
+
+Irrespetar la propiedad Sentir inquietud
+Ser irresponsable Ser desconsiderado hacia cualquier persona
+Cae en contradicciones al pensar Sentir intolerancia
+ser violento Actuar con cobardia
+sentirse presumido Generar divisiones y discordia entre los seres humanos
+ser cruel sentir ira
+pensar con confusion tener odio en el corazon
+decir blasfemias ser escandoloso
+crear desigualdades entre los seres humanos apasionarse por una idea
+sentirse inconstante crear rivalidad hacia otros
+pensamientos irracionales Traicionr a un desconocido
+Ostentar las riquezas materiales sentirse infeliz
+Entorpecer la cooperacion entre los seres humanos La maldad
+Odiar a cualquier ser de la naturaleza Hacerse distinciones entre las personas
+Sentirse intranquilo ser infiel
+Tener la mente dispersa mostrar apatia al pensar
+La injusticia sentirse angustiado
+Vengarse de los que odian a todo el mundo vengarse del que hace daño a un familiar
+Usar abusivamente el poder distraerse
+Ser desagradecido con los que ayudan ser egoista con todos
+Cualquier forma de irrespeto Odiar
+
+quiero que tenga un boton para enviar el resultado del test, esto va ser mediante supebase
